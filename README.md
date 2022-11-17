@@ -1,2 +1,2 @@
 # desafio-pratico
-Repositório para execução de desafio prático.
+O objetivo desse repositório é a execução do desafio prático.
